@@ -76,25 +76,34 @@ Integrate quizzes, eco-points, and leaderboards
 
 Start                                                                                                                                                              
   ↓
+  
 User Registers / Login                                                                                                                                      
   ↓
+  
 Access Environmental Lessons                                                                                                                                  
   ↓
+  
 Complete Quiz                                                                                                                                                
   ↓
+  
 Receive Eco Tasks                                                                                                        
 (Tree planting / Waste segregation / Clean-up)                                                                                                  
   ↓
+  
 Upload Proof of Activity                                                                                                                                
   ↓
 Teacher Verification                                                                                                                                             
   ↓
+  
 Earn Eco Points & Badges                                                                                                                                           
   ↓
+  
 Leaderboard Update                                                                                                                                                 
   ↓
+  
 Track Progress                                                                                                                                                    
   ↓
+  
 End
 
 ## Feasibility and Viability
