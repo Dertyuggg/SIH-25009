@@ -74,7 +74,7 @@ Develop frontend and backend
 
 Integrate quizzes, eco-points, and leaderboards
 
-Start
+Start                                                                                                                                                              
   ↓
 User Registers / Login                                                                                                                                      
   ↓
