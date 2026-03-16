@@ -76,24 +76,24 @@ Integrate quizzes, eco-points, and leaderboards
 
 Start
   ↓
-User Registers / Login
+User Registers / Login                                                                                                                                      
   ↓
-Access Environmental Lessons
+Access Environmental Lessons                                                                                                                                  
   ↓
-Complete Quiz
+Complete Quiz                                                                                                                                                
   ↓
-Receive Eco Tasks
-(Tree planting / Waste segregation / Clean-up)
+Receive Eco Tasks                                                                                                        
+(Tree planting / Waste segregation / Clean-up)                                                                                                  
   ↓
-Upload Proof of Activity
+Upload Proof of Activity                                                                                                                                
   ↓
-Teacher Verification
+Teacher Verification                                                                                                                                             
   ↓
-Earn Eco Points & Badges
+Earn Eco Points & Badges                                                                                                                                           
   ↓
-Leaderboard Update
+Leaderboard Update                                                                                                                                                 
   ↓
-Track Progress
+Track Progress                                                                                                                                                    
   ↓
 End
 
