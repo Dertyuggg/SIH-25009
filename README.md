@@ -74,7 +74,28 @@ Develop frontend and backend
 
 Integrate quizzes, eco-points, and leaderboards
 
-Test and deploy the platform
+Start
+  ↓
+User Registers / Login
+  ↓
+Access Environmental Lessons
+  ↓
+Complete Quiz
+  ↓
+Receive Eco Tasks
+(Tree planting / Waste segregation / Clean-up)
+  ↓
+Upload Proof of Activity
+  ↓
+Teacher Verification
+  ↓
+Earn Eco Points & Badges
+  ↓
+Leaderboard Update
+  ↓
+Track Progress
+  ↓
+End
 
 ## Feasibility and Viability
 Feasibility
